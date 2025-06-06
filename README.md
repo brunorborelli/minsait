@@ -1,3 +1,4 @@
+JAVA 17 MAVEN
 Nesse repositório estão presentes os desafios:
 
 **1.** Implementação de Classe e Algoritmo
